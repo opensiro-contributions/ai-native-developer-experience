@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "join-the-team-bootstrap-validation",
+  "original_repository": "jpantsjoha/ai-native-developer-experience",
+  "legacy_sources": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/data/assessment-candidate-batches/2026-10-22-04.json",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/join-the-team/CONTRIBUTION_HANDOFF.md"
+  ],
+  "title": "Validate symlink paths during bootstrap",
+  "work_state": "BLOCKED",
+  "next_action": "Unpublished native technical packet; no external publication or engineering until owner RESUME and exact-action authorization",
+  "source_revision": "e93069b92735ba096abf662f2b9d95a0ebfd36f9",
+  "native_evidence": [
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/join-the-team/CONTRIBUTION_HANDOFF.md",
+    "https://github.com/opensiro/upstream-old/blob/5e641ec9401b40800080791b2e490491522b1734/pilots/join-the-team/bootstrap-symlink-boundary.patch"
+  ],
+  "work_branches": [],
+  "external_prs": [],
+  "last_event_id": null
+}
